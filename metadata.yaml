@@ -1,0 +1,27 @@
+_repo: Systematic-Theology--Volume-1-of-3-_44035
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44035-tei/images/cover.jpg
+creator:
+  author:
+    agent_name: Strong, Augustus Hopkins
+    birthdate: 1836
+    deathdate: 1921
+    gutenberg_agent_id: '32698'
+    url: http://www.gutenberg.org/2009/agents/32698
+description: ''
+gutenberg_issued: '2013-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology, Doctrinal'
+- !lcc 'BT'
+- !lcsh 'Baptists -- Doctrines'
+title: Systematic Theology (Volume 1 of 3)
+url: http://www.gutenberg.org/ebooks/44035
